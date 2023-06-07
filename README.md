@@ -1,2 +1,3 @@
 # ch26-web01 
-Aplicación básica usando html, css y js
+
+Basic application using HTML, CSS, and JS.
